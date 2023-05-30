@@ -1,0 +1,39 @@
+
+[
+  {
+    "id":1,
+    "name": "French fries large",
+    "imgUrl": "/assets/FrenchFries.jpg",
+   "price":2.52
+  },
+  {
+    "id":2,
+    "name": "Double Cheeseburger",
+    "imgUrl": "/assets/DoubleCheeseburger.jpg",
+    "price":2.52
+  },
+  {
+    "id":3,
+    "name": "Royal Cheeseburger",
+    "imgUrl": "/assets/RoyalCheeseburger.jpg",
+    "price":2.52
+  },
+  {
+    "id":4,
+    "name": "Cheeseburger with bacon",
+    "imgUrl": "/assets/CheeseburgerwithBacon.jpg",
+    "price":2.52
+  },
+  {
+    "id":5,
+    "name": "Chicken Nuggets 20 pcs",
+    "imgUrl": "/assets/ChickenNaggets.jpg",
+    "price":2.52
+  },
+  {
+    "id":6,
+    "name": "Coca-Cola® medium",
+    "imgUrl": "/assets/Coca.jpg",
+    "price":2.52
+  }
+]
